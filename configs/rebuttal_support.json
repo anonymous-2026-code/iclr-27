@@ -1,0 +1,426 @@
+[
+  {
+    "dataset": "Daphnet",
+    "subset": ""
+  },
+  {
+    "dataset": "GECCO",
+    "subset": ""
+  },
+  {
+    "dataset": "Genesis",
+    "subset": ""
+  },
+  {
+    "dataset": "MSL",
+    "subset": "C-1"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "C-2"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "D-14"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "D-15"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "D-16"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "F-4"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "F-5"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "F-7"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "F-8"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "M-1"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "M-2"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "M-3"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "M-4"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "M-5"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "M-6"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "M-7"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "P-11"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "P-15"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "S-2"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "T-12"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "T-13"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "T-4"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "T-5"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "T-8"
+  },
+  {
+    "dataset": "MSL",
+    "subset": "T-9"
+  },
+  {
+    "dataset": "PSM",
+    "subset": ""
+  },
+  {
+    "dataset": "PUMP",
+    "subset": ""
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "A-1"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "A-2"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "A-3"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "A-4"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "A-6"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "A-7"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "A-8"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "A-9"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "B-1"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "D-1"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "D-11"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "D-12"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "D-13"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "D-2"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "D-4"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "D-6"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "D-7"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "D-8"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "D-9"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "E-1"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "E-10"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "E-11"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "E-12"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "E-13"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "E-2"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "E-3"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "E-4"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "E-5"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "E-6"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "E-7"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "E-8"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "E-9"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "F-1"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "F-2"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "F-3"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "G-1"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "G-2"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "G-3"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "G-4"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "G-6"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "G-7"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "P-1"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "P-2"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "P-2-0"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "P-3"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "P-4"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "P-7"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "R-1"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "S-1"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "T-1"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "T-2"
+  },
+  {
+    "dataset": "SMAP",
+    "subset": "T-3"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-1-1"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-1-2"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-1-3"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-1-4"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-1-6"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-1-7"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-1-8"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-2-1"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-2-2"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-2-3"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-2-4"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-2-5"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-2-6"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-2-7"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-2-8"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-3-1"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-3-10"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-3-2"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-3-3"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-3-6"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-3-7"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-3-8"
+  },
+  {
+    "dataset": "SMD",
+    "subset": "M-3-9"
+  },
+  {
+    "dataset": "SWAT2015",
+    "subset": ""
+  }
+]

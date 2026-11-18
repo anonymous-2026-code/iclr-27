@@ -1,0 +1,58 @@
+# Immutable protocol used by the paper-result exporter.
+# This file follows the executable result provenance, including the sl12/st12
+# directory profile selected by the paper's own result parser.
+protocol_id = "section5-ae-paper-results-v1"
+source_snapshot = "anonymous-submission-v1"
+model_id = "base_win_ae"
+model_name = "win_ae"
+
+datasets = [
+  "MSL",
+  "SMAP",
+  "SMD",
+  "PSM",
+  "SWAT2015",
+  "PUMP",
+  "Daphnet",
+  "GECCO",
+  "Genesis",
+]
+multi_subset_datasets = ["MSL", "SMAP", "SMD"]
+seeds = [42, 43, 44, 45, 46]
+
+sequence_length = 12
+train_stride = 12
+test_stride = 12
+train_batch_size = 64
+frozen_test_batch_size = 64
+tta_test_batch_size = 1
+train_epochs = 10
+early_stopping_patience = 3
+source_learning_rate = 0.0001
+source_optimizer = "adam"
+source_lr_schedule = "type1"
+train_fraction = 0.8
+selector_quantile = 0.95
+update_scope = "full_model"
+clear_gain_pp = 0.5
+
+[[tta_config]]
+key = "sgd_ttlr0.001"
+optimizer = "sgd"
+learning_rate = 0.001
+
+[[tta_config]]
+key = "sgd_ttlr0.0001"
+optimizer = "sgd"
+learning_rate = 0.0001
+
+[[tta_config]]
+key = "adamw_ttlr0.0001"
+optimizer = "adamw"
+learning_rate = 0.0001
+
+[[tta_config]]
+key = "adamw_ttlr0.0003"
+optimizer = "adamw"
+learning_rate = 0.0003
+

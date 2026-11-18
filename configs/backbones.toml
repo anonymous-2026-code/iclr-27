@@ -1,0 +1,18 @@
+# Submitted Table 2; shared data/source/optimizer settings inherit section5_ae.toml.
+# The models and source-validation loss use the historical generating code.
+protocol_id = "table2-submission-v1"
+backbones = ["USAD", "LSTMED"]
+update_scopes = ["full_model", "reconstruction_path"]
+
+[USAD]
+model_id = "base_usad_w0p5"
+latent_dim = 5
+score_weight = 0.5
+frozen_test_batch_size = 64
+
+[LSTMED]
+model_id = "lstmed_12_12_12_core"
+latent_dim = 5
+layers = 1
+dropout = 0.0
+frozen_test_batch_size = 1

@@ -1,0 +1,65 @@
+{
+  "schema_version": "iclr27-data-sources-v1",
+  "raw_root_environment": "RAW_DATA_ROOT",
+  "raw_manifest": "reference/data/raw_manifest.json",
+  "raw_manifest_sha256": "57948e6920d22e9c2e55162dc14a85476ef420ecc82a3feb48602622c1317867",
+  "processed_manifest": "reference/data/processed_manifest.json",
+  "processed_manifest_sha256": "915da2a0c00acd7f3077fc5ccaec8b3667c2929201aea2bd59ea8876b887978c",
+  "preprocessing_version": "iclr27-preprocess-v1-compatible-with-section5-raw-manifest-v1",
+  "excluded_legacy_snapshot_non_inputs": [
+    "smd/train/.machine-3-6.txt.KqdccN"
+  ],
+  "bundles": {
+    "telemanom": {
+      "datasets": ["MSL", "SMAP"],
+      "official_project": "Telemanom / NASA SMAP-MSL telemetry anomaly data",
+      "source": "https://github.com/khundman/telemanom",
+      "audited_revision": "2e6c5b6c3558e7835601519b7bdef37c649bdbdc",
+      "access": "public metadata; data archive may require Kaggle access",
+      "license": "dataset terms must be reviewed at the distribution source; repository license does not by itself grant dataset redistribution",
+      "required": ["labeled_anomalies.csv", "train/*.npy", "test/*.npy"]
+    },
+    "smd": {
+      "datasets": ["SMD"],
+      "official_project": "OmniAnomaly ServerMachineDataset",
+      "source": "https://github.com/NetManAIOps/OmniAnomaly",
+      "audited_revision": "7fb0e0acf89ea49908896bcc9f9e80fcfff6baf4",
+      "access": "public Git repository",
+      "license": "review upstream repository and dataset notices before redistribution",
+      "required": ["train/machine-*.txt", "test/machine-*.txt", "test_label/machine-*.txt"]
+    },
+    "psm": {
+      "datasets": ["PSM"],
+      "official_project": "RANSynCoders PSM distribution",
+      "source": "https://github.com/eBay/RANSynCoders",
+      "audited_revision": "948e61eb579815ff2a6bce721332d8220d59ca47",
+      "access": "public Git repository",
+      "license": "review upstream repository and dataset notices before redistribution",
+      "required": ["train.csv", "test.csv", "test_label.csv"]
+    },
+    "tab": {
+      "datasets": ["SWAT2015", "PUMP"],
+      "official_project": "TAB benchmark data bundle",
+      "source": "https://github.com/decisionintelligence/TAB",
+      "audited_revision": "distribution fingerprinted by reference/data/raw_manifest.json",
+      "access": "public project with externally hosted archive",
+      "license": "TAB redistribution does not establish new rights to underlying SWaT/PUMP data; review original terms",
+      "required": ["SWAT.csv", "PUMP.csv"]
+    },
+    "tsb_ad_m": {
+      "datasets": ["Daphnet", "GECCO", "Genesis"],
+      "official_project": "TSB-AD-M",
+      "source": "https://www.thedatum.org/datasets/TSB-AD-M.zip",
+      "audited_revision": "distribution fingerprinted by reference/data/raw_manifest.json",
+      "access": "public archive",
+      "license": "review TheDatum/TSB-AD dataset terms before redistribution",
+      "required": [
+        "001_Genesis_id_1_Sensor_tr_4055_1st_15538.csv",
+        "018_Daphnet_id_1_HumanActivity_tr_9693_1st_20732.csv",
+        "173_GECCO_id_1_Sensor_tr_16165_1st_16265.csv"
+      ]
+    }
+  },
+  "git_policy": "raw and processed data are ignored and never committed",
+  "restricted_data_policy": "manual acquisition plus byte-level validation; no workspace sibling fallback"
+}

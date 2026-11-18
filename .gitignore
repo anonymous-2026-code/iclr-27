@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+/.venv/
+*.egg-info/
+/data/
+/downloads/
+/workspace/
+/outputs/
+rebuttal/experiments/**/runs/
+rebuttal/experiments/**/outputs/
+rebuttal/experiments/**/derived/
+rebuttal/experiments/**/input_diagnostics/
+rebuttal/experiments/**/checkpoint_gap/
+rebuttal/experiments/**/plan.json
+rebuttal/experiments/**/*.log

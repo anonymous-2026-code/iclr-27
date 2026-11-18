@@ -1,0 +1,1166 @@
+{
+  "entities": [
+    {
+      "dataset": "MSL",
+      "features": 18,
+      "subset": "C-1",
+      "test_anomalies": 310,
+      "test_rows": 2264,
+      "test_semantic_sha256": "8791c23f6b52ffc806af72e9716e9854663a39aba9eeb7a1ff67f0b2b6968e42",
+      "train_rows": 2158,
+      "train_semantic_sha256": "1b91755bdf47515e9dff656286cf0021c8bcfdcc29fc41e824b2981944005c6c"
+    },
+    {
+      "dataset": "MSL",
+      "features": 14,
+      "subset": "C-2",
+      "test_anomalies": 135,
+      "test_rows": 2051,
+      "test_semantic_sha256": "0d5e0d2234f4b4581521aa0259812a25e061053e1d790b47277f10a479bf9207",
+      "train_rows": 764,
+      "train_semantic_sha256": "55cf0042b7bb2e010026e40c362c01eb15638aec1986a8f26d39594b6deaf509"
+    },
+    {
+      "dataset": "MSL",
+      "features": 34,
+      "subset": "D-14",
+      "test_anomalies": 220,
+      "test_rows": 2625,
+      "test_semantic_sha256": "3c0af1c696430d07fc08a3afd34caf437648d4727f54fbb6bc066c1719f648cf",
+      "train_rows": 3675,
+      "train_semantic_sha256": "5b776a3746a545e1d114f55be50ceb09fb00da34686de9178a0102c322e4e64c"
+    },
+    {
+      "dataset": "MSL",
+      "features": 16,
+      "subset": "D-15",
+      "test_anomalies": 640,
+      "test_rows": 2158,
+      "test_semantic_sha256": "17b3fd96966132ccd9f84a967ff29cc08bfc6a60a248ef8603acf46abaebba5d",
+      "train_rows": 2074,
+      "train_semantic_sha256": "82acc2329b5b2a3c28c0ca721686d5f93c3090a42ebb31a572b4dbe7fde5f188"
+    },
+    {
+      "dataset": "MSL",
+      "features": 16,
+      "subset": "D-16",
+      "test_anomalies": 650,
+      "test_rows": 2191,
+      "test_semantic_sha256": "8ec2914102a60ddb1debed64995aca4f51122b52e974548b88af90c541741da0",
+      "train_rows": 1451,
+      "train_semantic_sha256": "5a675af9956c6e73264fcbd54d8ce983826930f1ab276e94e25353583d947c48"
+    },
+    {
+      "dataset": "MSL",
+      "features": 13,
+      "subset": "F-4",
+      "test_anomalies": 70,
+      "test_rows": 3422,
+      "test_semantic_sha256": "4fa5c8be7c8302b03995500ff56239dd98302f7dce551bf94595fc5e0e309826",
+      "train_rows": 2244,
+      "train_semantic_sha256": "f7b8692b190b1da06f4e1ddbb9dcafac84c5082e0cad4e3acbc990d6529d1016"
+    },
+    {
+      "dataset": "MSL",
+      "features": 13,
+      "subset": "F-5",
+      "test_anomalies": 150,
+      "test_rows": 3922,
+      "test_semantic_sha256": "1d90545997b27d3a8e2b4e3d6393839af3a5e332c539c628f751116c0f4de48c",
+      "train_rows": 2598,
+      "train_semantic_sha256": "08e3b14846d535ad191962097a0193291ccb5adfd2ce5a439b3de9a01e3bdd9c"
+    },
+    {
+      "dataset": "MSL",
+      "features": 15,
+      "subset": "F-7",
+      "test_anomalies": 420,
+      "test_rows": 5054,
+      "test_semantic_sha256": "c1a037c03ee81c5897984cf994b3ad70a3f78802d7c6f7ce29ceb3f7fa9a1e05",
+      "train_rows": 2511,
+      "train_semantic_sha256": "af48920a8c181c019cee1940fa845d212484796b2369706f8a25e3fb0b5900b5"
+    },
+    {
+      "dataset": "MSL",
+      "features": 14,
+      "subset": "F-8",
+      "test_anomalies": 536,
+      "test_rows": 2487,
+      "test_semantic_sha256": "ea44db90dd5b10742ce4797859c91b18a5bba37ca02258c4610bd0a43dea4ea1",
+      "train_rows": 3342,
+      "train_semantic_sha256": "7c05af817ea9fa36a463f21de3cd152b38924a6dea69ee981deeaf9654ec629f"
+    },
+    {
+      "dataset": "MSL",
+      "features": 13,
+      "subset": "M-1",
+      "test_anomalies": 1140,
+      "test_rows": 2277,
+      "test_semantic_sha256": "25070920dccd77330e84f5d180bc89feeb4f7bf552ed18a6e6a936cd11773e40",
+      "train_rows": 2209,
+      "train_semantic_sha256": "e56c6329d27e56683646ba0c01941883ab1fe1f081922c56e2e1cc438c81692e"
+    },
+    {
+      "dataset": "MSL",
+      "features": 13,
+      "subset": "M-2",
+      "test_anomalies": 1140,
+      "test_rows": 2277,
+      "test_semantic_sha256": "d5a24e40c7e3edbaf3de022da6b920629ef876ec2b19531a9de272587f78b750",
+      "train_rows": 2208,
+      "train_semantic_sha256": "20edc35bcd52cb0e60d5f81a94c4524e4f1ab3ff1b45117729fcea1517e671b4"
+    },
+    {
+      "dataset": "MSL",
+      "features": 18,
+      "subset": "M-3",
+      "test_anomalies": 250,
+      "test_rows": 2127,
+      "test_semantic_sha256": "da1e59e29b4c3270f627b389c8949889dd181509afb538eb116ded2c8bad6dac",
+      "train_rows": 2037,
+      "train_semantic_sha256": "f6b0937d3008c78327b96951fec50430081a2642fe52ea157a2040f200cbb785"
+    },
+    {
+      "dataset": "MSL",
+      "features": 18,
+      "subset": "M-4",
+      "test_anomalies": 250,
+      "test_rows": 2038,
+      "test_semantic_sha256": "78b768d1ecdfcd2e2a3b1507367d9a09801aa4f60406954c390fe6bec2413f7c",
+      "train_rows": 2076,
+      "train_semantic_sha256": "5e2ec83ad99bb875b8cab6b83452de4621dd8b39057283e432654768c4e248f8"
+    },
+    {
+      "dataset": "MSL",
+      "features": 16,
+      "subset": "M-5",
+      "test_anomalies": 300,
+      "test_rows": 2303,
+      "test_semantic_sha256": "1ac826b14b525431e0ab8bbe4d04fbb322871485ec9590e43e4f3fbaa8b0bc26",
+      "train_rows": 2032,
+      "train_semantic_sha256": "e158071cb4d760d5cad05a08113aecfbb02f2d3c14e2007b82ab960c152b8d8f"
+    },
+    {
+      "dataset": "MSL",
+      "features": 16,
+      "subset": "M-6",
+      "test_anomalies": 180,
+      "test_rows": 2049,
+      "test_semantic_sha256": "d3de8d83f709bbbd2068be3e2d7e19a8ec742692a28b281b72beb812be101329",
+      "train_rows": 1565,
+      "train_semantic_sha256": "9c084bf856e44e88f9b0fe0f0bd40c62a5a49954bc27414f01c64486bf6d167d"
+    },
+    {
+      "dataset": "MSL",
+      "features": 16,
+      "subset": "M-7",
+      "test_anomalies": 100,
+      "test_rows": 2156,
+      "test_semantic_sha256": "0449f90c41ddbfb84cb30f6dc4405d3841f0b5561b9898d5461b615e2fefcf5a",
+      "train_rows": 1587,
+      "train_semantic_sha256": "6582497043b0cf22de103245d0b55663ff0259dffd824c1c5949c0f542e19600"
+    },
+    {
+      "dataset": "MSL",
+      "features": 27,
+      "subset": "P-10",
+      "test_anomalies": 130,
+      "test_rows": 6100,
+      "test_semantic_sha256": "399017214a873e9b7990f447fd911f3c3691285c7de720c5fd1f4d49ba828bff",
+      "train_rows": 4308,
+      "train_semantic_sha256": "0c3cf546cf063551cfd85016791661ff876b052e0edcadcdfaa57971b6ecde3e"
+    },
+    {
+      "dataset": "MSL",
+      "features": 16,
+      "subset": "P-11",
+      "test_anomalies": 226,
+      "test_rows": 3535,
+      "test_semantic_sha256": "ed45352bfc3021d57975b485e3753a16b4451d5578b4d8432e5a283e33795013",
+      "train_rows": 3969,
+      "train_semantic_sha256": "4ba99531d22b93b4db7db3817deca60f4df100bc1002145c784de9a5225c0167"
+    },
+    {
+      "dataset": "MSL",
+      "features": 25,
+      "subset": "P-14",
+      "test_anomalies": 180,
+      "test_rows": 6100,
+      "test_semantic_sha256": "e3c79c8309e0b12e0b249bc843f259e6b0bc94769f7193ceb9de315eee5fb553",
+      "train_rows": 2880,
+      "train_semantic_sha256": "21fa6917ccbc2dd197d64ae28859ff29ee30ae6d3b07c1b210e0936e201643ac"
+    },
+    {
+      "dataset": "MSL",
+      "features": 19,
+      "subset": "P-15",
+      "test_anomalies": 20,
+      "test_rows": 2856,
+      "test_semantic_sha256": "e7bc161836a037e43798a8a0b21b47f18811aaa7e53926eb0db4696b52ce4418",
+      "train_rows": 3682,
+      "train_semantic_sha256": "08b539ff0aed16139f875243f15ea8218f14810170d7c19ecf41d2eba1056ca5"
+    },
+    {
+      "dataset": "MSL",
+      "features": 14,
+      "subset": "S-2",
+      "test_anomalies": 10,
+      "test_rows": 1827,
+      "test_semantic_sha256": "413698a35a217882fad13a3b5c59232336fde60148a4f543e688a9e6af1fc0eb",
+      "train_rows": 926,
+      "train_semantic_sha256": "790c80c61f30ba425b0534be39909cb46ca5c53875866ea97622e13b1ab7b549"
+    },
+    {
+      "dataset": "MSL",
+      "features": 15,
+      "subset": "T-12",
+      "test_anomalies": 120,
+      "test_rows": 2430,
+      "test_semantic_sha256": "2952f01a3db568780b50394498fa5027c9cd5948766768b7e2680b1370506b1a",
+      "train_rows": 1145,
+      "train_semantic_sha256": "9b989787f1f1032640a7e6f91fba79f407781401557dbee321f2b4a968025097"
+    },
+    {
+      "dataset": "MSL",
+      "features": 15,
+      "subset": "T-13",
+      "test_anomalies": 250,
+      "test_rows": 2430,
+      "test_semantic_sha256": "4661c7d72a74caee991732ad489977ad9198763fc27ff230ea89731f9d7ad066",
+      "train_rows": 1145,
+      "train_semantic_sha256": "04194764ad11cf0bb4c41f52d15e4552d7f34d7ca327b517941f35cd66b3b4ad"
+    },
+    {
+      "dataset": "MSL",
+      "features": 14,
+      "subset": "T-4",
+      "test_anomalies": 68,
+      "test_rows": 2217,
+      "test_semantic_sha256": "4f106574f00f7c1563a24c9d7f797a0bbcfbe8ef6d33cbba3d443bb4b11809c7",
+      "train_rows": 2272,
+      "train_semantic_sha256": "a3a867c8e248b86b74c7c3f2b23c2a3e7d577b1819cbe3a9845e6804fbd33a0a"
+    },
+    {
+      "dataset": "MSL",
+      "features": 14,
+      "subset": "T-5",
+      "test_anomalies": 25,
+      "test_rows": 2218,
+      "test_semantic_sha256": "264572125f94cb47f784f9cef1c785af4c8fba182674f58e39520ff9fc2465dd",
+      "train_rows": 2272,
+      "train_semantic_sha256": "1cdbec0e355d9a9b4392c3d4cce386822652f4be7e172793fe569239df16cf3d"
+    },
+    {
+      "dataset": "MSL",
+      "features": 12,
+      "subset": "T-8",
+      "test_anomalies": 100,
+      "test_rows": 1519,
+      "test_semantic_sha256": "23834f306861121f40ced59218f9dfd73a512c719242ab6f8b563e837214db08",
+      "train_rows": 748,
+      "train_semantic_sha256": "5e036ebcdd8cf66180224ba610968476b8fd799f9f20244c681b2b10dfbc8e81"
+    },
+    {
+      "dataset": "MSL",
+      "features": 23,
+      "subset": "T-9",
+      "test_anomalies": 110,
+      "test_rows": 1096,
+      "test_semantic_sha256": "61dc2212d499695e34881ba54f5e2e87c26537b88e083c8b6f8273dad22b2be5",
+      "train_rows": 439,
+      "train_semantic_sha256": "66f72b37c92bca6e5d690d6174046847562c893be68dc3015f11decd03d548d4"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 21,
+      "subset": "A-1",
+      "test_anomalies": 84,
+      "test_rows": 8640,
+      "test_semantic_sha256": "fa48a9b4647ca8b715d5aa49472f86ec551ffc581e6564f5964f3a00e379078d",
+      "train_rows": 2880,
+      "train_semantic_sha256": "9e3ed0bab228030b055f1812623b3887ad22072c08684e61369f7bf441c0120a"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 18,
+      "subset": "A-2",
+      "test_anomalies": 110,
+      "test_rows": 7914,
+      "test_semantic_sha256": "24926dbb39db4bd3d2aa4fa1c37238c9391c141042798d5340798cca8b0a77f5",
+      "train_rows": 2648,
+      "train_semantic_sha256": "80d559445c04598f1118900253968c19b3c2cadebcefdf9b841cbbe80891105b"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 18,
+      "subset": "A-3",
+      "test_anomalies": 185,
+      "test_rows": 8205,
+      "test_semantic_sha256": "7bc2eb7801bee4f415c6bcf06fdb3fb7e72b64907af241dcb85e71b80539921e",
+      "train_rows": 2736,
+      "train_semantic_sha256": "90b761c55dc76d9ae0ce251f7501f8b37e048da4a09937b1c63cc915b7b78df4"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 18,
+      "subset": "A-4",
+      "test_anomalies": 110,
+      "test_rows": 8080,
+      "test_semantic_sha256": "ebb2f938e53ea544a53ddd949da7e42bffa479a972570c8481fb66b17e40dc53",
+      "train_rows": 2690,
+      "train_semantic_sha256": "7f09c0549b6e24b0d641b5c47590f0890342f7f202d9cb9f9c431400bdb577fc"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 11,
+      "subset": "A-5",
+      "test_anomalies": 50,
+      "test_rows": 4693,
+      "test_semantic_sha256": "425581d5da9232e5ea3b3e14924a588e8fbc25ec236544eaf7c2869b21a86be4",
+      "train_rows": 705,
+      "train_semantic_sha256": "9d6fd6a1f1bd8657cc5ca94173b751df4461e74f21be99f8fbea73fd20c57f1e"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 11,
+      "subset": "A-6",
+      "test_anomalies": 40,
+      "test_rows": 4453,
+      "test_semantic_sha256": "b246789269bbea17b9794b7d412f419d4da5126e5a4e0df805a5d6bd9eb9ef5f",
+      "train_rows": 682,
+      "train_semantic_sha256": "15736496f02d1f407bcad2c50b653b628c4f48e29cfb07ead00b732a03e02959"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 12,
+      "subset": "A-7",
+      "test_anomalies": 2400,
+      "test_rows": 8631,
+      "test_semantic_sha256": "cf3a2d82b22a447f28a5a9cc5e062d7fcbd59065fa3e4987afb462f65914e433",
+      "train_rows": 2879,
+      "train_semantic_sha256": "429e565d29c4394828e1b6950aea84819c323bf653e9dc8a4aba00d0a9b07680"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 13,
+      "subset": "A-8",
+      "test_anomalies": 3805,
+      "test_rows": 8375,
+      "test_semantic_sha256": "295df4021e900de011c33b1de77494a00b1438d10889adca4ed67e3eb495e6c0",
+      "train_rows": 762,
+      "train_semantic_sha256": "3c40e648ea0800e7c1899c3c062e715959e67e4357f7eabf1950e4ec8149a767"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 13,
+      "subset": "A-9",
+      "test_anomalies": 3864,
+      "test_rows": 8434,
+      "test_semantic_sha256": "97f7e5bca82c0345efedef901730c8e4e83d75bef3ae318719e25a589c1bb9ab",
+      "train_rows": 762,
+      "train_semantic_sha256": "7cd384c3339291d6e655fe5f214052a1e26acbe4afabcae86dd9f09378f2c308"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 14,
+      "subset": "B-1",
+      "test_anomalies": 70,
+      "test_rows": 8044,
+      "test_semantic_sha256": "beeeb24146ce3742d838d6a01e6ac1c856933c891edb292acca077b87265c526",
+      "train_rows": 2435,
+      "train_semantic_sha256": "e176cb475d952847ab2492dcaeb3912a3b7f49bf586465adbb306e24bd04cda8"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 24,
+      "subset": "D-1",
+      "test_anomalies": 3258,
+      "test_rows": 8509,
+      "test_semantic_sha256": "b8f553de7fe9c2cb0d37d8c046ce10e48ce5bd6b77e2ac735fdf4ded92cfd287",
+      "train_rows": 2849,
+      "train_semantic_sha256": "63c9f9b6dbe3f6c6a9546b5ebd22a1b48105c127d273cad6a06051f567a65080"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 10,
+      "subset": "D-11",
+      "test_anomalies": 60,
+      "test_rows": 7431,
+      "test_semantic_sha256": "1d9b6e3276e9ffa4a94d3e8c288c93b13575f30d2b10996d88ff603b45068a1a",
+      "train_rows": 2611,
+      "train_semantic_sha256": "69ba3806a3e932d70a677047b827856d5fceb1e82d8838a238e8f853d660872c"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 8,
+      "subset": "D-12",
+      "test_anomalies": 2739,
+      "test_rows": 7918,
+      "test_semantic_sha256": "eecdae94924ffc0e19045560f71b15dfdc52d06ccd4109ef641344fb1edb712f",
+      "train_rows": 312,
+      "train_semantic_sha256": "5c30d92bd1fc90bfc6546b54d4b3726a203ca04b68d48fec5bd1b8a7a5b1bde0"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 15,
+      "subset": "D-13",
+      "test_anomalies": 160,
+      "test_rows": 7663,
+      "test_semantic_sha256": "00cdda9dc8b85db066e488cdbe4fe0a8661e31a9e3a2e6a7d9212a165384c14c",
+      "train_rows": 1490,
+      "train_semantic_sha256": "fba34562e2a6b2daf4e1a70cc5effeb985b1faf1ca370f4e3fa02bda910a8aee"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 20,
+      "subset": "D-2",
+      "test_anomalies": 4217,
+      "test_rows": 8595,
+      "test_semantic_sha256": "ee054ec4e995d919d4f7e1b3699f468cdabad62a7f5ddd00b168447061034690",
+      "train_rows": 2880,
+      "train_semantic_sha256": "babed757396ce262dbc2846d11afbd9474fa9cb9bd2b7a0e52ba545c12955813"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 20,
+      "subset": "D-3",
+      "test_anomalies": 3275,
+      "test_rows": 8640,
+      "test_semantic_sha256": "5173858b0c99e315bd2c5503e99c66a7dbcc9c4fcb101512c635f2f4aa8c1452",
+      "train_rows": 2880,
+      "train_semantic_sha256": "229518ff21049a5d8f65aff95a2d73d995b4716eaf21a016b61e84d436c4ae57"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 20,
+      "subset": "D-4",
+      "test_anomalies": 3247,
+      "test_rows": 8473,
+      "test_semantic_sha256": "eba922de5648ac457a37f7654e4712f2edf9a9fb38adfa812657e26e9c12b7b7",
+      "train_rows": 2833,
+      "train_semantic_sha256": "3f15e70fc8c0acfad733b66e1185b5e6c8a4e0c80fec1c5d6dc0d4299869b8f7"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 19,
+      "subset": "D-5",
+      "test_anomalies": 50,
+      "test_rows": 7628,
+      "test_semantic_sha256": "202f9e92b812e5c468caf902d789fa5c045e07e3d3f122789a33ce3e34b85a39",
+      "train_rows": 2561,
+      "train_semantic_sha256": "e58e9379d337190eb36356aedf7a7260df912354b22a6fe03b9bc96fda1aaecf"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 19,
+      "subset": "D-6",
+      "test_anomalies": 80,
+      "test_rows": 7884,
+      "test_semantic_sha256": "dc821a36d0e37ba32354f196503b26387dbf39987201823484e68369300da945",
+      "train_rows": 2594,
+      "train_semantic_sha256": "a6a66d38d1b9c25533980354349999dba111baf98873ec9bdf16d8fd701d14dd"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 20,
+      "subset": "D-7",
+      "test_anomalies": 2701,
+      "test_rows": 7642,
+      "test_semantic_sha256": "ec4a73d2901b31a6ba5454fb92121331bfc57d9f80438912cbcc399d3c184318",
+      "train_rows": 2583,
+      "train_semantic_sha256": "d661c35494260455f7cd0fe1f0fddaedd70732cabb0fb54942c1cde956421f23"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 15,
+      "subset": "D-8",
+      "test_anomalies": 50,
+      "test_rows": 7874,
+      "test_semantic_sha256": "18e9604d2da1d084fd72235ce4408dd033504a458fcd56262cad9bfd6f5cdb58",
+      "train_rows": 2602,
+      "train_semantic_sha256": "e68ea1f2c9bb23eddf67b3d8b7f758a21168cd3de0ca8b9181f1ff76f17e3ead"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 14,
+      "subset": "D-9",
+      "test_anomalies": 1155,
+      "test_rows": 7406,
+      "test_semantic_sha256": "4209ee70fb05a70f96839c97e55c657e63d93874774d608b3999d1e6742025ef",
+      "train_rows": 2583,
+      "train_semantic_sha256": "033ba6a92f7fc4ea12d8cb0a3d00d1d0b9eb0a9b5fbcc111fdff4c33c9ce6442"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 24,
+      "subset": "E-1",
+      "test_anomalies": 506,
+      "test_rows": 8516,
+      "test_semantic_sha256": "0f73e2110ac402659422f0330d58463751fbbe9b16e1a276570091f874afc113",
+      "train_rows": 2880,
+      "train_semantic_sha256": "376a8a75835d1dd49bde2c0460031729c120e94cd8ba8eb8bab37729388dde5c"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 24,
+      "subset": "E-10",
+      "test_anomalies": 320,
+      "test_rows": 8505,
+      "test_semantic_sha256": "efda55e8fc1dd69ad52f3a83ddf8c2b409b057d5c13ac49c17e95b5140525406",
+      "train_rows": 2880,
+      "train_semantic_sha256": "476959f1d8173f53e50d192bdb130bceffe109b3a771094110959c68cfa36cf6"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 24,
+      "subset": "E-11",
+      "test_anomalies": 293,
+      "test_rows": 8514,
+      "test_semantic_sha256": "38d6637844f0bdfce70466041679ac472812159be412a9f84caa7dab999652fd",
+      "train_rows": 2880,
+      "train_semantic_sha256": "86d91afacc43aab8259a38b76d9e51307e9db9b22f37a68d2ef82650268e0458"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 24,
+      "subset": "E-12",
+      "test_anomalies": 581,
+      "test_rows": 8512,
+      "test_semantic_sha256": "c624c2f898be776a9c873f48a5961c645c3fa57b430f79cd6a690b4acd40a156",
+      "train_rows": 2880,
+      "train_semantic_sha256": "1de44bf756a04e8482e9aabbe508a06a1c72d2409cfc1513329f54fc2cccdda1"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 21,
+      "subset": "E-13",
+      "test_anomalies": 261,
+      "test_rows": 8640,
+      "test_semantic_sha256": "57d83e17f4ac5df24c3801683a4c6db4635ec4a510caa59600fdf6198d820068",
+      "train_rows": 2880,
+      "train_semantic_sha256": "9dd3e2ca63d4c127f0208114c6f09b72f748d823e539070425ad8bb30f4340b9"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 24,
+      "subset": "E-2",
+      "test_anomalies": 1397,
+      "test_rows": 8532,
+      "test_semantic_sha256": "3d3f9c986dca076dceffc779aa7d3ddfb9c1913799a6054a2d053ea99c861749",
+      "train_rows": 2880,
+      "train_semantic_sha256": "70328c7bd31a46f934bfa28a939704f354dff3ae7ffdb547cb0dd65522614d47"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 24,
+      "subset": "E-3",
+      "test_anomalies": 3212,
+      "test_rows": 8307,
+      "test_semantic_sha256": "cd7a8ded87fab15d86a27515caf6691da1f9e24c8949c80aa03e7f910b40114e",
+      "train_rows": 2880,
+      "train_semantic_sha256": "101ce199a47c9398bcb1bf61becbffbb7567d72e7a9096d89eeee7720940b1dd"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 24,
+      "subset": "E-4",
+      "test_anomalies": 2811,
+      "test_rows": 8354,
+      "test_semantic_sha256": "0c9f9e2d487933af115cd3c77977da088e476b7650c2dbc078a1696bfc0959a4",
+      "train_rows": 2880,
+      "train_semantic_sha256": "5d2514cd9127bb3a72425b24269cf13ce493815a0461ce02368a66f81e04df1a"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 24,
+      "subset": "E-5",
+      "test_anomalies": 320,
+      "test_rows": 8294,
+      "test_semantic_sha256": "db1f592ae54b267dc442bdfc4270dd00e93b7620dc1330e53e9f44322c8ce76e",
+      "train_rows": 2880,
+      "train_semantic_sha256": "01b6af78efa1890508446d086e64b9ea574eb3aa19525a557203f938aefaf605"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 24,
+      "subset": "E-6",
+      "test_anomalies": 65,
+      "test_rows": 8300,
+      "test_semantic_sha256": "248ef4c5c0a8f778cb707660890a936f456150bb45a9c6562bc5108d4cbeb7db",
+      "train_rows": 2880,
+      "train_semantic_sha256": "4bf3760aff57ae79b13ac04e309b9ebdb49bb047e9d1bd140d84c1bde6587be7"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 24,
+      "subset": "E-7",
+      "test_anomalies": 280,
+      "test_rows": 8310,
+      "test_semantic_sha256": "21372545991abf20e1751e0deb88ff587ee75850bcbc9ba9454cde44fefba19c",
+      "train_rows": 2769,
+      "train_semantic_sha256": "1d37a78cc49c59d72c05840cc00ecf24b068df8786b18b3150ccaea83022ec46"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 24,
+      "subset": "E-8",
+      "test_anomalies": 622,
+      "test_rows": 8532,
+      "test_semantic_sha256": "63f05abaf8e0ede72d1ae2c6d547a5d5f540fc4a9e1e56be4535dd6bf40bfc61",
+      "train_rows": 2880,
+      "train_semantic_sha256": "6d972a477680dcbd79df92d2c7c2164d34b1c120a103e8ecf2696e6c76ce307e"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 24,
+      "subset": "E-9",
+      "test_anomalies": 350,
+      "test_rows": 8302,
+      "test_semantic_sha256": "6627aeb86eba5dabcb78ac5503494ec08a487516c3171742668b47cd00aecbca",
+      "train_rows": 2880,
+      "train_semantic_sha256": "04ae87c1aab13b18ccad0867c6353fc6c7eab944e7cd875c9085b1604d505c64"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 17,
+      "subset": "F-1",
+      "test_anomalies": 100,
+      "test_rows": 8584,
+      "test_semantic_sha256": "878c64ad43d3b0f6ea90a0727283b2586c37377ac35af3aa87ee083ac05bbce5",
+      "train_rows": 2869,
+      "train_semantic_sha256": "c079ebc456f21307113ffde2c33140c3766a6ee4a2681217733dc2ef8cff2bbe"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 15,
+      "subset": "F-2",
+      "test_anomalies": 2956,
+      "test_rows": 8626,
+      "test_semantic_sha256": "2df53b2ba3f4e4f347d66d421694cce2c58f975b6c065791e9a216c09be4a846",
+      "train_rows": 2861,
+      "train_semantic_sha256": "408a77ebb5b2786ed7e420534b46f7d893bc71600b2fbba3568a02ebc72b3a22"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 24,
+      "subset": "F-3",
+      "test_anomalies": 40,
+      "test_rows": 8376,
+      "test_semantic_sha256": "4ea41c43c3959912dca53f467d2816e095f75e54254df6e91b0cd9b630c8099c",
+      "train_rows": 2880,
+      "train_semantic_sha256": "3f798901403f60c4f61a519212f96b3e98717c2f87dcf485d19ae9682693f5eb"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 18,
+      "subset": "G-1",
+      "test_anomalies": 120,
+      "test_rows": 8469,
+      "test_semantic_sha256": "b4bf1dce538654d24d5785533f036cd463e8186fb9144682af8baa4a1609f0a7",
+      "train_rows": 2820,
+      "train_semantic_sha256": "a92976f9682e4a8c2a6586fe4dd7825d9f66c59b45cd2fa0425d159749ccec73"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 20,
+      "subset": "G-2",
+      "test_anomalies": 40,
+      "test_rows": 7361,
+      "test_semantic_sha256": "4aedf25694eebf53e1e698c64b60bf6fc84affcc1329e2840f23c5afa304a9a1",
+      "train_rows": 2478,
+      "train_semantic_sha256": "56e20ef8d90e3869a438befcace043701e4225e762548cb6acebf472af627fb4"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 20,
+      "subset": "G-3",
+      "test_anomalies": 50,
+      "test_rows": 7907,
+      "test_semantic_sha256": "04c887047b3ae5e3e86801295e9b8352dcbb04db296aee9839431eba8382d37d",
+      "train_rows": 2624,
+      "train_semantic_sha256": "e6168b18d8d673542c2c338112575ff1842760d17c30742c3b590038c7044e6f"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 13,
+      "subset": "G-4",
+      "test_anomalies": 30,
+      "test_rows": 7632,
+      "test_semantic_sha256": "4f89163049ae4374845086e45e22498297ab5a62ab21ea0d85eeb555815ea0bf",
+      "train_rows": 2551,
+      "train_semantic_sha256": "d3bdd765edc2700461614fc6dbedaa8176a3899dec8d91a78cdf84c8b0adc2bd"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 14,
+      "subset": "G-6",
+      "test_anomalies": 100,
+      "test_rows": 8640,
+      "test_semantic_sha256": "35454ba2be9cac8b5d6e6e60836be687b52ba8a2bb4e9a702b0f3c08c90bdf20",
+      "train_rows": 2881,
+      "train_semantic_sha256": "a3ea04f90f3b7dd1b6e3b74e36eb85cee4402d9629f8903599fbb2fae3dd99df"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 11,
+      "subset": "G-7",
+      "test_anomalies": 265,
+      "test_rows": 8029,
+      "test_semantic_sha256": "acb93bf5381518dd398e0fe3a3b977fb9f1dbc57807e38043ad91c2b60fe5ea4",
+      "train_rows": 2446,
+      "train_semantic_sha256": "0c55317af03f980c70aac9c467ec4a222a9cf62d4e92be4ae511981a55199359"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 18,
+      "subset": "P-1",
+      "test_anomalies": 748,
+      "test_rows": 8505,
+      "test_semantic_sha256": "5b90544bd82598bcc67057696d14d02bcb8bc390745f82f8500ae656ab196d2c",
+      "train_rows": 2872,
+      "train_semantic_sha256": "965e4f28e4bd14a90b2f53e99594b194b736b958b72bd882b82667314ac8ed11"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 24,
+      "subset": "P-2",
+      "test_anomalies": 1120,
+      "test_rows": 8209,
+      "test_semantic_sha256": "968d3bb59c5d1e90029d3d1ec3e7555764dc4903aff3c4d83e950b29f388d927",
+      "train_rows": 2821,
+      "train_semantic_sha256": "7eeac25d71082ea501695958506978a2cd2ed21ecba3c84ab9a46fa14aa867d3"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 24,
+      "subset": "P-2-0",
+      "test_anomalies": 1225,
+      "test_rows": 8209,
+      "test_semantic_sha256": "f73cd74c3b34a4d66cf4a549f1c73593553006bba976a740134f8d9753a77dec",
+      "train_rows": 2821,
+      "train_semantic_sha256": "7eeac25d71082ea501695958506978a2cd2ed21ecba3c84ab9a46fa14aa867d3"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 24,
+      "subset": "P-3",
+      "test_anomalies": 1335,
+      "test_rows": 8493,
+      "test_semantic_sha256": "4234b44e0ca8f62d90ec9d07cf42fc38a8fc11c69983ffecfd2287900e17ce31",
+      "train_rows": 2855,
+      "train_semantic_sha256": "76def3438a2eb9767a31af733fce76da25375f22df35c5f6340627e3bd929bb8"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 18,
+      "subset": "P-4",
+      "test_anomalies": 440,
+      "test_rows": 7783,
+      "test_semantic_sha256": "441c4ae34e86cc9c264e8adcb565b647485717f758c4af19554085b0cc15a5bb",
+      "train_rows": 2609,
+      "train_semantic_sha256": "8a1dbf4cb5c5c065c7845821f723c50315ca2678e9fee4a764a2044040a18488"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 8,
+      "subset": "P-7",
+      "test_anomalies": 1650,
+      "test_rows": 8071,
+      "test_semantic_sha256": "e677f67fab6e0284976accca79c41725ecefc31b565ff84ddde2fd4f17c55497",
+      "train_rows": 2853,
+      "train_semantic_sha256": "5304305de8d5603ee8ccb89479b437f2642057a0d060db54f60cce2899139bd8"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 8,
+      "subset": "R-1",
+      "test_anomalies": 80,
+      "test_rows": 7244,
+      "test_semantic_sha256": "61f0029224812d506b7c696bcdb0dbecc7231bab4ea75c02becabf3267b3fed5",
+      "train_rows": 2874,
+      "train_semantic_sha256": "f1c2fbe726a3bc54c078e16100ca59a4b7811dec766b2340bebd5ae3dfda46ce"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 19,
+      "subset": "S-1",
+      "test_anomalies": 447,
+      "test_rows": 7331,
+      "test_semantic_sha256": "48f2d8f052a9b9de76c74e6458c0ac9e45b72165200f26e1773a5530720236b2",
+      "train_rows": 2818,
+      "train_semantic_sha256": "45a6e87664bb9e1b620b38f927284fdc6b5d947033420bcfb531b04f215c6399"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 15,
+      "subset": "T-1",
+      "test_anomalies": 1534,
+      "test_rows": 8612,
+      "test_semantic_sha256": "b4cd25a0baf284e3cff88cb07064151dc6f5e0c9be08fa664f5c4228d7d6dc58",
+      "train_rows": 2875,
+      "train_semantic_sha256": "58063ac3e041bbb04e33c0c6a94f6923f35eb0cda7db6f121bfbee5e64b2bc9f"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 15,
+      "subset": "T-2",
+      "test_anomalies": 1784,
+      "test_rows": 8625,
+      "test_semantic_sha256": "d25bc6cd33a5171ed7ad8f00ff8384705667218dd7b9f8cefd69a4dc98517432",
+      "train_rows": 2855,
+      "train_semantic_sha256": "f3ab64d293768c629fde23ec8f2a9e51a9a7e0ec57cd1700850ce27b70e5b3f9"
+    },
+    {
+      "dataset": "SMAP",
+      "features": 12,
+      "subset": "T-3",
+      "test_anomalies": 182,
+      "test_rows": 8579,
+      "test_semantic_sha256": "b8d313681c162d295b965fb0915738ee345bbb4d68dc6e111e631617dda567e3",
+      "train_rows": 2876,
+      "train_semantic_sha256": "c727484d06f73bee4fdbfe0c30ff216729612622edb12667238a5e6e96fb537e"
+    },
+    {
+      "dataset": "SMD",
+      "features": 32,
+      "subset": "M-1-1",
+      "test_anomalies": 2694,
+      "test_rows": 28479,
+      "test_semantic_sha256": "63f05d5382f7862f9725d4c1107f90ea3b7f882b9d508fa340c176ac9314ad46",
+      "train_rows": 28479,
+      "train_semantic_sha256": "dc448514d6ac1740ca141984c5b9e96511ce16233aaef862a0d077f5046e9994"
+    },
+    {
+      "dataset": "SMD",
+      "features": 33,
+      "subset": "M-1-2",
+      "test_anomalies": 542,
+      "test_rows": 23694,
+      "test_semantic_sha256": "7e7758eefc76b6ee9110d0f50e335284abca7f5391a2d22b03faaf7ae8fdce17",
+      "train_rows": 23694,
+      "train_semantic_sha256": "e99662021fd0f1a87508b3af629fbbe402d3110aa6cf55728f32b49c18c68df3"
+    },
+    {
+      "dataset": "SMD",
+      "features": 34,
+      "subset": "M-1-3",
+      "test_anomalies": 817,
+      "test_rows": 23703,
+      "test_semantic_sha256": "be06a42eabad10b7b15c723aff5b5727e5d847a8231bc45a02fe852ee8345000",
+      "train_rows": 23702,
+      "train_semantic_sha256": "02d92c0f9113946130f02ee7db89d4eda28cffd773a47977dfa815d258d6669a"
+    },
+    {
+      "dataset": "SMD",
+      "features": 34,
+      "subset": "M-1-4",
+      "test_anomalies": 720,
+      "test_rows": 23707,
+      "test_semantic_sha256": "4cc50af0de912252003f4056e5d20c27c313e989b8cf8918c025d398cb501157",
+      "train_rows": 23706,
+      "train_semantic_sha256": "46740dd6cd534a136e1ffc387532f8e3e4e2286ea1b96c5664e4dec516b267e5"
+    },
+    {
+      "dataset": "SMD",
+      "features": 30,
+      "subset": "M-1-5",
+      "test_anomalies": 100,
+      "test_rows": 23706,
+      "test_semantic_sha256": "8f43450c3c6a526ada370ee5d3d01c8edfdcac59ef0a260b0ad7512e947c8af5",
+      "train_rows": 23705,
+      "train_semantic_sha256": "798500a08ce8a1aca2245ed31cda41dde4813e5e6859091508e1005f8e19940a"
+    },
+    {
+      "dataset": "SMD",
+      "features": 34,
+      "subset": "M-1-6",
+      "test_anomalies": 3708,
+      "test_rows": 23689,
+      "test_semantic_sha256": "88f167fdca0ddae9396cc028ee89aef5884df9634332ef7f5c7ce716658f6902",
+      "train_rows": 23688,
+      "train_semantic_sha256": "049c39e9c4bc1175541c87d3fd2b376e7442c6704b14fcdc3ce6e94b5bdeb6e6"
+    },
+    {
+      "dataset": "SMD",
+      "features": 34,
+      "subset": "M-1-7",
+      "test_anomalies": 2398,
+      "test_rows": 23697,
+      "test_semantic_sha256": "f3df1823daed87b62c63d88061998d06fd05af9709ae3a3cf7cf5ee5b287624a",
+      "train_rows": 23697,
+      "train_semantic_sha256": "7dee14b479f0dbaf9a2cd7a44226b10f068a3781b39bcf18a24d0eb540ed654c"
+    },
+    {
+      "dataset": "SMD",
+      "features": 30,
+      "subset": "M-1-8",
+      "test_anomalies": 763,
+      "test_rows": 23699,
+      "test_semantic_sha256": "1c4976aa94b77e2035d4a5834867913f286a5dc36634dca7fc91699acb25cbd4",
+      "train_rows": 23698,
+      "train_semantic_sha256": "08a11441028f979e8f1391df307dd98494c5319cc39381bc3abdd5c4fa52fd05"
+    },
+    {
+      "dataset": "SMD",
+      "features": 33,
+      "subset": "M-2-1",
+      "test_anomalies": 1170,
+      "test_rows": 23694,
+      "test_semantic_sha256": "596b92a972998d2e4099ea4b2cee6cf98b886bd6a027709b40bdcc12e5385cbe",
+      "train_rows": 23693,
+      "train_semantic_sha256": "1a18354059a3286caa4345087f5289ea1972cabec4ed92332ff287a014fe4115"
+    },
+    {
+      "dataset": "SMD",
+      "features": 31,
+      "subset": "M-2-2",
+      "test_anomalies": 2833,
+      "test_rows": 23700,
+      "test_semantic_sha256": "a5522ec131ca7751ba0f30c46fae67a2e1ad62fd863e44e097686280679a7395",
+      "train_rows": 23699,
+      "train_semantic_sha256": "3575baaca72eabf6a9ac16a6001dad3f5357e390d3b19ab94c6517dbc3414e59"
+    },
+    {
+      "dataset": "SMD",
+      "features": 32,
+      "subset": "M-2-3",
+      "test_anomalies": 269,
+      "test_rows": 23689,
+      "test_semantic_sha256": "02460e2ddf4d7a3bc796eadb504eccdad50c068810cd5978cef4ad6219e4e6b6",
+      "train_rows": 23688,
+      "train_semantic_sha256": "4210e81830c172f1c8bc8ca646055e1df73c961b4ca5581a48cef82371bd834a"
+    },
+    {
+      "dataset": "SMD",
+      "features": 30,
+      "subset": "M-2-4",
+      "test_anomalies": 1694,
+      "test_rows": 23689,
+      "test_semantic_sha256": "2d399e158e65e0899b1538e3d0070d398ff7a54c459ab7691c90ee03c10e8f1b",
+      "train_rows": 23689,
+      "train_semantic_sha256": "250c654e5e3347acc961bcf0823316590022bab83a9e973a6dbf49575306f52e"
+    },
+    {
+      "dataset": "SMD",
+      "features": 32,
+      "subset": "M-2-5",
+      "test_anomalies": 980,
+      "test_rows": 23689,
+      "test_semantic_sha256": "94d1f4267062df72d45db4eca46168ce6fa5945d9b2b1efcd8a8d5327873a084",
+      "train_rows": 23688,
+      "train_semantic_sha256": "4871eca9816e4642406eb78719f35c9c40ab2fbdce85637f84b0015406cfd081"
+    },
+    {
+      "dataset": "SMD",
+      "features": 30,
+      "subset": "M-2-6",
+      "test_anomalies": 424,
+      "test_rows": 28743,
+      "test_semantic_sha256": "d2e82b0eab4469dadfee8d567ae365de327c7b252c3d3a8cfeb94e72c76bcb1d",
+      "train_rows": 28743,
+      "train_semantic_sha256": "09317a22b352e50190e7738824833abab8d6f1f7e885a35cb84fb423fe98978a"
+    },
+    {
+      "dataset": "SMD",
+      "features": 31,
+      "subset": "M-2-7",
+      "test_anomalies": 417,
+      "test_rows": 23696,
+      "test_semantic_sha256": "0cc95611ff97278c5d8b625354199c9ff3482886f8480873c39cf31b9883d8bf",
+      "train_rows": 23696,
+      "train_semantic_sha256": "40d2dc118d009f4a761d023cd99217316bc10f2b28cd9a7f87b1ba79a3b73db0"
+    },
+    {
+      "dataset": "SMD",
+      "features": 34,
+      "subset": "M-2-8",
+      "test_anomalies": 161,
+      "test_rows": 23703,
+      "test_semantic_sha256": "b5f9c6ca1d73e664ea3cb924904f9b2be3eb260191245b3eb17b0adec1d638c8",
+      "train_rows": 23702,
+      "train_semantic_sha256": "9f9e56a2d9979e76fe5a4c49e3a448766385d6413f0147b3d0cfcd6d0d4b1c5c"
+    },
+    {
+      "dataset": "SMD",
+      "features": 30,
+      "subset": "M-2-9",
+      "test_anomalies": 1755,
+      "test_rows": 28722,
+      "test_semantic_sha256": "1e4d975d0b5f3a36ccc7b12d86ce344669b39609be401feb968cabede7e76136",
+      "train_rows": 28722,
+      "train_semantic_sha256": "19868c564c635f3ca7ecfc5a7a85343bddc2fa833d01c86a9eb16bbe4b41ea9b"
+    },
+    {
+      "dataset": "SMD",
+      "features": 31,
+      "subset": "M-3-1",
+      "test_anomalies": 308,
+      "test_rows": 28700,
+      "test_semantic_sha256": "618500b21e0abc65e5ee91448193c19bc18309dbaa06a57d6d8c5a8bbf40d5f7",
+      "train_rows": 28700,
+      "train_semantic_sha256": "59efbcbe31c92e6d3cfdda1b128134726e3e3cc7aa365973d435776df44b4bfd"
+    },
+    {
+      "dataset": "SMD",
+      "features": 29,
+      "subset": "M-3-10",
+      "test_anomalies": 1047,
+      "test_rows": 23693,
+      "test_semantic_sha256": "8d0bf55327edd899f0cfc48855e2b8001cac03d6fa5f5f102b1c372668a679fc",
+      "train_rows": 23692,
+      "train_semantic_sha256": "c8c22d3648aafe4c2e0abc41ed2d46fb0c03051d2b455a91448eec4cfef0ae9e"
+    },
+    {
+      "dataset": "SMD",
+      "features": 31,
+      "subset": "M-3-11",
+      "test_anomalies": 198,
+      "test_rows": 28696,
+      "test_semantic_sha256": "74cfefc067135dfca165f96eb53c82d3bdd8716cc74ba441f2a50d8ee35f1919",
+      "train_rows": 28695,
+      "train_semantic_sha256": "80d65fa0b3000e8ee43ac68d66cf2b1e755038f90a3522ee735f5ee1c241f4f1"
+    },
+    {
+      "dataset": "SMD",
+      "features": 32,
+      "subset": "M-3-2",
+      "test_anomalies": 1109,
+      "test_rows": 23703,
+      "test_semantic_sha256": "10200f8234d8be8e3f87051ab65617a4724efaa1066b5df0e34ac15148c017c1",
+      "train_rows": 23702,
+      "train_semantic_sha256": "df8662774dc885c737b6093c4d7f5e7d4d6ac507b9b614c0e9a85e0703697c6a"
+    },
+    {
+      "dataset": "SMD",
+      "features": 36,
+      "subset": "M-3-3",
+      "test_anomalies": 632,
+      "test_rows": 23703,
+      "test_semantic_sha256": "299ab715f756727f1190c2fa41b1b7d022f0c0bf52b955225445a0e36a9db32d",
+      "train_rows": 23703,
+      "train_semantic_sha256": "f807de840d3afda357e39fff797b2c492153d01476e1cc7cd937b21fa16fa91e"
+    },
+    {
+      "dataset": "SMD",
+      "features": 30,
+      "subset": "M-3-4",
+      "test_anomalies": 977,
+      "test_rows": 23687,
+      "test_semantic_sha256": "d30366eaf50df6a1f32c7cd3ccdf8f23ac87e2ecfc86070bcd76fe7af76e6c18",
+      "train_rows": 23687,
+      "train_semantic_sha256": "dc96c699b12219903d553c8113eaad08b90b9e75b3c7a58e93adf2e3f35d13a7"
+    },
+    {
+      "dataset": "SMD",
+      "features": 30,
+      "subset": "M-3-5",
+      "test_anomalies": 426,
+      "test_rows": 23691,
+      "test_semantic_sha256": "310bdb117bb85674a3e9e4104f99c895547d2b5f82a961f50989f244e8868d7b",
+      "train_rows": 23690,
+      "train_semantic_sha256": "2a201f2a062f913d9f2e221caa9139ddda00e63248ea6eda303d0dfe5fdfbcf3"
+    },
+    {
+      "dataset": "SMD",
+      "features": 31,
+      "subset": "M-3-6",
+      "test_anomalies": 1194,
+      "test_rows": 28726,
+      "test_semantic_sha256": "0c735a5c67c4cfbc796e5014660c8c4889908bc0aada4ee24f20e7eff6810bde",
+      "train_rows": 28726,
+      "train_semantic_sha256": "18a33bace00d3fbc45afb7477d44a08a1815a210bd004fba5d63e89bd1925dac"
+    },
+    {
+      "dataset": "SMD",
+      "features": 33,
+      "subset": "M-3-7",
+      "test_anomalies": 434,
+      "test_rows": 28705,
+      "test_semantic_sha256": "46332d71a219d21218e38c772132a4a4456a83602bf2b75b7c91c7c3e5333448",
+      "train_rows": 28705,
+      "train_semantic_sha256": "62b1db245cf6d4d4a55f2d31382316a41f1e7973f0a6d20b434a6c3b344f9fb7"
+    },
+    {
+      "dataset": "SMD",
+      "features": 31,
+      "subset": "M-3-8",
+      "test_anomalies": 1371,
+      "test_rows": 28704,
+      "test_semantic_sha256": "3eb4a0e95921c3d5af2591e41ead9d3a754d9389da5faef7b673345251de364c",
+      "train_rows": 28703,
+      "train_semantic_sha256": "11fe5138ed690d5be3657f2e4cebbdec446751965958c15b0cd052a1573cd3d1"
+    },
+    {
+      "dataset": "SMD",
+      "features": 31,
+      "subset": "M-3-9",
+      "test_anomalies": 303,
+      "test_rows": 28713,
+      "test_semantic_sha256": "3aef2c9c61de449a6369888c3deab3cf07c73d003191948b480e6a0318b2015c",
+      "train_rows": 28713,
+      "train_semantic_sha256": "894b54504a019445c09c3663452dd261e1e8238c8fecb577c3b2ff5f54c65d22"
+    },
+    {
+      "dataset": "PSM",
+      "features": 25,
+      "subset": "",
+      "test_anomalies": 24381,
+      "test_rows": 87841,
+      "test_semantic_sha256": "401ccee8bef9d08e8d3a6916fd75e0ae4d926c18dd8f85a1b19d84ff5d7ded0d",
+      "train_rows": 132481,
+      "train_semantic_sha256": "2b216be9f04b3d609d059f57860839d11d648ce81ced37dfc394c31fd523ffce"
+    },
+    {
+      "dataset": "SWAT2015",
+      "features": 45,
+      "subset": "",
+      "test_anomalies": 54621,
+      "test_rows": 449919,
+      "test_semantic_sha256": "ae8f419afb24eb0970b303d0a9735ac86342d9d33a3b93dbc0e6483ba0be16da",
+      "train_rows": 495000,
+      "train_semantic_sha256": "de867f312b9c0bf967bd3d76ecbc7261e14edad8047e9f48783e3eed5b19f339"
+    },
+    {
+      "dataset": "PUMP",
+      "features": 44,
+      "subset": "",
+      "test_anomalies": 10352,
+      "test_rows": 110151,
+      "test_semantic_sha256": "9e522479bf7cc0c2ef3b52307cc4e4050ac807da131cbc5f97ec64169a918503",
+      "train_rows": 110151,
+      "train_semantic_sha256": "0a26b33ccd948ac5bfa5c65deab89b11d32e0485e3590b51ababeb6efb05001c"
+    },
+    {
+      "dataset": "Daphnet",
+      "features": 9,
+      "subset": "",
+      "test_anomalies": 2306,
+      "test_rows": 29081,
+      "test_semantic_sha256": "97eeb19044fa3d49c5cede6794963725611e2c0bdd59e1c43fd1eb9588cb3d07",
+      "train_rows": 9693,
+      "train_semantic_sha256": "eb0c50f391b7358de6de4895b0b0bdd312389deafcd0b3d73e0abd8b6d9d87d3"
+    },
+    {
+      "dataset": "GECCO",
+      "features": 9,
+      "subset": "",
+      "test_anomalies": 1726,
+      "test_rows": 122356,
+      "test_semantic_sha256": "060765581a0512edca922e61a7acd06183730078a831e1497b4eb244346f16f0",
+      "train_rows": 16165,
+      "train_semantic_sha256": "954f1d0b17eb46e4e66fd4153994aea0866d5de0409664cc891e85afcb558a41"
+    },
+    {
+      "dataset": "Genesis",
+      "features": 18,
+      "subset": "",
+      "test_anomalies": 50,
+      "test_rows": 12165,
+      "test_semantic_sha256": "592311cc278840433aab88fad269aae452ec8d076afcc8440113fd3c66237de5",
+      "train_rows": 4055,
+      "train_semantic_sha256": "95468b91ff124f4a415f1b02d4f83fd4a41b5d51c5d34d3751aa838ea0cd12db"
+    }
+  ],
+  "entity_count": 116,
+  "format": "section5-processed-manifest-v1"
+}

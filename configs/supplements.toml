@@ -1,0 +1,87 @@
+# Shared supplement definitions. The review launcher selects the submitted
+# Section 4.4 variants only. Shared AE/source settings are inherited
+# from configs/section5_ae.toml; only supplement-specific choices live here.
+protocol_id = "supplements-paper-results-v1"
+source_protocol_id = "section5-ae-paper-results-v1"
+datasets = [
+  "MSL", "SMAP", "SMD", "PSM", "SWAT2015",
+  "PUMP", "Daphnet", "GECCO", "Genesis",
+]
+seeds = [42, 43, 44, 45, 46]
+sequence_length = 12
+train_stride = 12
+test_stride = 12
+optimizer_key = "adamw_ttlr0.0001"
+gain_threshold_pp = 0.5
+
+[e1]
+mask_seed = 20260725
+fractions = [0.05, 0.10]
+perturbations = [
+  "fn_contamination",
+  "boundary_erosion",
+  "boundary_dilation",
+]
+main_fraction = 0.10
+main_optimizer_key = "adamw_ttlr0.0001"
+auxiliary_optimizer_key = "sgd_ttlr0.001"
+auxiliary_seeds = [42, 43, 44]
+representative_datasets = ["Daphnet", "MSL", "PUMP", "SWAT2015"]
+# These nine dataset × seed auxiliary cells had pre-existing non-finite
+# baseline SGD runs.  The canonical E1 audit keeps them in the target
+# denominator but excludes every partial subset and finite prefix.
+baseline_unavailable_datasets = ["MSL", "SMAP", "SMD"]
+baseline_unavailable_optimizer_key = "sgd_ttlr0.001"
+baseline_unavailable_seeds = [42, 43, 44]
+
+[e2]
+static_percentiles = [95.0, 99.0, 99.5]
+expanding_percentile = 95.0
+bottom_k = 11
+m2n2_percentile = 95.0
+
+[e2.gamma]
+Daphnet = 0.99
+GECCO = 0.99
+Genesis = 0.99
+MSL = 0.60
+PSM = 0.99
+PUMP = 0.99
+SMAP = 0.80
+SMD = 0.99
+SWAT2015 = 0.99999
+
+[e3]
+datasets = ["SWAT2015", "PUMP", "MSL", "Daphnet"]
+seeds = [42, 43, 44]
+cadences = [1, 4]
+
+[fpm]
+score_percentile = 99.5
+hard_tail_percent = 0.5
+moderate_low_percentile = 25.0
+moderate_high_percentile = 75.0
+chi2_probability = 0.05
+covariance_regularization = 0.0
+inverse_policy = "pinv"
+
+[e5]
+vus_window = 12
+rank_thresholds = 250
+alignment_policy = "common_prefix_joint_finite"
+
+[e6]
+cadences = [1, 2, 4, 8]
+optional_unrun_cadences = [16]
+
+[e7]
+arms = [
+  "frozen_sana",
+  "practical_fpm_sana",
+  "oracle_normal_window_sana",
+  "oracle_clean_fpm_sana",
+]
+d_model = 512
+heads = 8
+d_ff = 512
+sana_seed_offset = 7000
